@@ -1,0 +1,59 @@
+body {
+  background-color: #A1C4FD;
+}
+
+header {
+  background-color: #333333;
+  width: 100%;
+  padding: 2px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.card {
+  margin: 70px 20px 10px 20px;
+}
+
+.slider {
+  width: auto;
+  height: 500px;
+}
+
+img.slider-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image {
+  float: left;
+  width: 200px;
+  height: 250px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.p-text {
+  text-align: justify;
+  column-width: 250px;
+  column-rule: 5px double black;
+}
+
+.footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding-bottom: 5px;
+}
